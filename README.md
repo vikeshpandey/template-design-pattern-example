@@ -1,4 +1,2 @@
 # template-design-pattern-example
-an example showcasing how to implement template design pattern
-
-For details on on this repo, please visit: 
+To understand how this example works, please read the article at: https://dzone.com/articles/design-patterns-demystified-template-design-patter
